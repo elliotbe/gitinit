@@ -1,0 +1,11 @@
+
+Usage: gitinit [name] [description] [flags]
+
+Initialize a git repository and push it to github.
+[name] and [description] arguments are optionals.
+
+Options:
+
+  --help, -h                    output usage information
+  --verbose, -V                 output verbose messages on internal operations
+  --version, -v                 output the version number
