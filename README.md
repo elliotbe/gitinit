@@ -13,7 +13,7 @@ Initialize a git repository and push it to github.
 
 Install the `gitinit` command globally
 
-    npm install -g @yo/gitinit
+    npm install -g @yoyote/gitinit
 
 ## Usage ##
 
